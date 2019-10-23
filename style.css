@@ -1,0 +1,62 @@
+nav {
+    height: 90px !important;
+    line-height: 90px;
+    background-color: #ffffff;
+
+}
+
+nav ul li a {
+    color: black !important;
+}
+
+.centerAlign {
+    margin-left: 60% !important;
+}
+
+.brand-logo {
+    margin-left: 15% !important;
+    color: black !important;
+    font-size: 3rem !important;
+}
+
+.noMargin {
+    margin: 0 !important;
+    line-height: unset;
+}
+
+.backImg {
+    height: calc(100vh - 65px);
+    overflow: hidden;
+}
+
+.backImg img {
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    padding: 10px !important;
+}
+
+.container {
+    width: 60% !important;
+}
+
+.firstImg {
+    height: calc(100vh - 220px);
+    width: 100%;
+}
+
+.firstImg img {
+    height: 100%;
+    width: 100%;
+}
+
+p.content {
+    font-size: 1.5rem;
+}
+
+.subtext {
+    font-size: 1.3rem !important;
+    color: grey;
+}
